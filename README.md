@@ -50,8 +50,13 @@ This is the explanation of variables that can be passed to commands:
 | `ansible_requirements_path` | `.ansible/roles/requirements.yml`                      | -                            | -                                                                         |
 | `ansible_roles_path`        | `.ansible/roles`                                       | -                            | -                                                                         |
 
+### Makefiles
+
+Visit **[neo-soft-innovation/makefiles](https://github.com/neo-soft-innovation/makefiles)** for dependency-less, seamless project integration and minimum required best-practice tools.
+The provided Makefiles will only require GNU Make itself removing the need to install anything else.
+
 ## License
 
 **[MIT License](LICENSE)**
 
-Copyright(c) 2021 [neo-soft](https://github.com/neo-soft-innovation)
+Copyright(c) 2021 [neo-soft-innovation](https://github.com/neo-soft-innovation)
